@@ -42,8 +42,6 @@ if ( ! function_exists( 'avada_header_social_links' ) ) {
 }
 
 
-
-
 /* -------------------------------------- SHORTCODE -----------------------------------------------------*/
 
 // Shortcode per mostrare sezione cast all'intero del contenuto
