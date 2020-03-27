@@ -2,6 +2,7 @@
 
 /*-------------------------------------------------------- 
                 CUSTOM POST TYPE "PRODUZIONI" 
+				  INCLUDED IN functions.php
 ---------------------------------------------------------*/
  
 function custom_post_type_produzioni() {
